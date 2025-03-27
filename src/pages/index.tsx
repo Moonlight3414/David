@@ -27,7 +27,7 @@ const Home: FC = memo(() => {
       <Contact />
       <Footer />
     </Page>
-  );
+  );//
 });
 
 export default Home;
